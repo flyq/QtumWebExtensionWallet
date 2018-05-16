@@ -1,0 +1,2 @@
+# QtumWebExtensionWallet
+QtumWebExtensionWallet
